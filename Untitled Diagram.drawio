@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T02:45:36.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="F0oKMrXhvkClcIRvh1m7" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-04T03:32:58.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SJUpxgG_zTwtTJE3l8uR" version="20.0.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,18 +122,40 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yEV8EyeTLUlEmpcNr8Te" name="第 2 页">
-    <mxGraphModel dx="5688" dy="3016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;零件尺寸&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=19;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-1" target="EWvHnnYS7gpeKDERBUo6-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-2" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;零件尺寸&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;零件尺寸&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;零件尺寸&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="170" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-2" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;轧环尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="530" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-3" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;锻件尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-11" value="&lt;h1&gt;CAPP计算逻辑与设计逻辑结合&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Lucida Console;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="1140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-27" value="BaseInfo(基类)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="340" height="130" as="geometry">
+            <mxRectangle x="440" y="390" width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-28" value="InnerDiameter:内径&#xa;Outer Diameter：外径&#xa;Height：高度&#xa;Weight：重量" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#CCFFE6;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-27">
+          <mxGeometry y="26" width="340" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-39" value="PartInfo(零件尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="310" width="320" height="130" as="geometry">
+            <mxRectangle x="440" y="390" width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-40" value="MiddleDiameter:&#xa;MiddleHeight:&#xa;UpperHeight:" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#CCFFE6;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-39">
+          <mxGeometry y="26" width="320" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
