@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T05:49:41.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KzLxIqhhMDEDFmsM8vy_" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-04T07:55:29.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HiZhRQ02-8BlnMXu26V1" version="20.0.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,106 +122,178 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yEV8EyeTLUlEmpcNr8Te" name="第 2 页">
-    <mxGraphModel dx="6855" dy="1885" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="4493" dy="1826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=19;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-1" target="EWvHnnYS7gpeKDERBUo6-3">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=19;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-1" target="EWvHnnYS7gpeKDERBUo6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;零件尺寸&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-2850" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;零件尺寸&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#1A1A1A;fillColor=#5D7F99;strokeColor=#D0CEE2;" vertex="1" parent="1">
+          <mxGeometry x="-2983" y="-919" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-2" target="EWvHnnYS7gpeKDERBUo6-53">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;strokeColor=#736CA8;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-2" target="EWvHnnYS7gpeKDERBUo6-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-2" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;轧环尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1680" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-2" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;轧环尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="-1813" y="-919" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-3" target="EWvHnnYS7gpeKDERBUo6-2">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;strokeColor=#736CA8;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-3" target="EWvHnnYS7gpeKDERBUo6-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-3" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;锻件尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-2270" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-3" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;锻件尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="-2403" y="-919" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-11" value="&lt;h1&gt;CAPP计算逻辑与设计逻辑结合&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Lucida Console;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="-2535" y="20" width="1140" height="120" as="geometry" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-11" value="&lt;h1&gt;CAPP设计的类&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Lucida Console;fontSize=19;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-1793" y="-1084" width="1140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-27" value="BaseInfo(基类)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-2590" y="240" width="260" height="130" as="geometry">
-            <mxRectangle x="-2370" y="540" width="190" height="40" as="alternateBounds" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-27" value="BaseInfo(基类)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-2450" y="-350" width="260" height="130" as="geometry">
+            <mxRectangle x="-2396" y="-287" width="190" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-28" value="InnerDiameter:内径&#xa;Outer Diameter：外径&#xa;Height：高度&#xa;Weight：重量" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-27">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-28" value="InnerDiameter:内径&#xa;Outer Diameter：外径&#xa;Height：高度&#xa;Weight：重量" style="text;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-27">
           <mxGeometry y="26" width="260" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-46" style="endArrow=block;endFill=0;html=1;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;align=center;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-39">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-46" style="endArrow=block;endFill=0;html=1;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;align=center;strokeColor=#3700CC;edgeStyle=orthogonalEdgeStyle;entryX=0.002;entryY=0.428;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#6a00ff;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-39" target="EWvHnnYS7gpeKDERBUo6-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2590" y="300" as="targetPoint" />
+            <mxPoint x="-2723" y="-753" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-39" value="PartInfo(零件尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-3010" y="234" width="340" height="130" as="geometry">
-            <mxRectangle x="-2410" y="280" width="220" height="40" as="alternateBounds" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-39" value="PartInfo(零件尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-3143" y="-819" width="220" height="40" as="geometry">
+            <mxRectangle x="-3143" y="-819" width="340" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-40" value="（对于异性环件多出的尺寸）&#xa;MiddleDiameter:&#xa;MiddleHeight:&#xa;UpperHeight:" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-39">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-40" value="（对于异性环件多出的尺寸）&#xa;MiddleDiameter:&#xa;MiddleHeight:&#xa;UpperHeight:" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-39">
           <mxGeometry y="26" width="340" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-44" style="endArrow=block;endSize=16;endFill=0;html=1;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;align=center;strokeColor=default;edgeStyle=orthogonalEdgeStyle;exitX=-0.01;exitY=0.531;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.529;entryY=1.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2405.4" y="746.8340000000001" as="sourcePoint" />
-            <mxPoint x="-2830.14" y="371.0319999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-2830" y="747" />
-            </Array>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-42" value="ForgeInfo(锻件尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-2585" y="-821" width="540" height="440" as="geometry">
+            <mxRectangle x="-2585" y="-821" width="230" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-42" value="ForgeInfo(锻件尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-2400" y="500" width="540" height="440" as="geometry">
-            <mxRectangle x="-2025" y="278" width="230" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-43" value="OuterDAllowance:锻件的尺寸余量&#xa;InnerDAllowance&#xa;HeightAllowance&#xa;&#xa;OuterDTolerance:锻件公差&#xa;InnerDTolerance&#xa;HeithtTolerance&#xa;&#xa;MiddleDAllowance:异性环件余量&#xa;MiddleHAllowance&#xa;UpperHAllowance&#xa;&#xa;MiddleDTolerance：异性环件公差&#xa;MiddleHTolerance&#xa;UpperHTolerance&#xa;&#xa;HeightToThicknessRatio:锻件高厚比" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-42">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-43" value="OuterDAllowance:锻件的尺寸余量&#xa;InnerDAllowance&#xa;HeightAllowance&#xa;&#xa;OuterDTolerance:锻件公差&#xa;InnerDTolerance&#xa;HeithtTolerance&#xa;&#xa;MiddleDAllowance:异性环件余量&#xa;MiddleHAllowance&#xa;UpperHAllowance&#xa;&#xa;MiddleDTolerance：异性环件公差&#xa;MiddleHTolerance&#xa;UpperHTolerance&#xa;&#xa;HeightToThicknessRatio:锻件高厚比" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-42">
           <mxGeometry y="26" width="540" height="414" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-50" style="endArrow=block;endSize=16;endFill=0;html=1;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;align=center;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-48" target="EWvHnnYS7gpeKDERBUo6-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2340" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-2180" y="320" />
-              <mxPoint x="-2180" y="320" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-73" style="endArrow=block;endSize=16;endFill=0;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;align=center;strokeColor=#3700CC;edgeStyle=orthogonalEdgeStyle;sketch=0;fillColor=#6a00ff;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-48" target="EWvHnnYS7gpeKDERBUo6-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-48" value="RingBlankInfo(轧环尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-1750" y="234" width="260" height="130" as="geometry">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-48" value="RingBlankInfo(轧环尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-1883" y="-819" width="260" height="130" as="geometry">
             <mxRectangle x="-2370" y="540" width="190" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-49" value="InnerDiameter:内径&#xa;Outer Diameter：外径&#xa;Height：高度&#xa;Weight：重量" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-48">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-49" value="RollingAngel：轧制角" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-48">
           <mxGeometry y="26" width="260" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-53" target="EWvHnnYS7gpeKDERBUo6-55">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;strokeColor=#736CA8;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-53" target="EWvHnnYS7gpeKDERBUo6-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-53" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;冲孔尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1370" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-53" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;冲孔尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="-1503" y="-919" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-55" target="EWvHnnYS7gpeKDERBUo6-56">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;strokeColor=#736CA8;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-55" target="EWvHnnYS7gpeKDERBUo6-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-55" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;冲孔尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1110" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-55" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;镦粗尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="-1119" y="-919" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Lucida Console;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-56" target="EWvHnnYS7gpeKDERBUo6-57">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;strokeColor=#736CA8;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-56" target="EWvHnnYS7gpeKDERBUo6-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-56" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;冲孔尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-56" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;下料尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="-785" y="-919" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-57" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;冲孔尺寸&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#736CA8;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-57" target="EWvHnnYS7gpeKDERBUo6-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-561" y="-873" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-57" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;热处理&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="-584" y="-919" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-71" style="endArrow=block;endSize=16;endFill=0;html=1;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;align=center;strokeColor=#3700CC;edgeStyle=orthogonalEdgeStyle;fillColor=#6a00ff;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-61" target="EWvHnnYS7gpeKDERBUo6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-61" value="PunchInfo(下料尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-838" y="-833" width="260" height="147" as="geometry">
+            <mxRectangle x="-2370" y="540" width="190" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-64" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;形成工艺卡&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="-364" y="-919" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-68" style="endArrow=block;endSize=16;endFill=0;html=1;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;align=center;strokeColor=#3700CC;edgeStyle=orthogonalEdgeStyle;fillColor=#6a00ff;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-65" target="EWvHnnYS7gpeKDERBUo6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-65" value="PunchInfo(冲孔尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1553" y="-831" width="264.06" height="130" as="geometry">
+            <mxRectangle x="-2370" y="540" width="190" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-69" style="endArrow=block;endSize=16;endFill=0;html=1;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;align=center;strokeColor=#3700CC;edgeStyle=orthogonalEdgeStyle;fillColor=#6a00ff;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-66" target="EWvHnnYS7gpeKDERBUo6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-66" value="UpsetInfo(镦粗尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-1194" y="-821" width="260" height="128" as="geometry">
+            <mxRectangle x="-2370" y="540" width="190" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-74" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=1;sketch=0;fontColor=#1A1A1A;strokeColor=#3700CC;curved=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6a00ff;exitX=-0.003;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-43" target="EWvHnnYS7gpeKDERBUo6-40">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-2589" y="-592" as="sourcePoint" />
+            <mxPoint x="-2429" y="-592" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-76" value="MaterialProperity(材料属性)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-540" y="-821" width="230" height="40" as="geometry">
+            <mxRectangle x="-540" y="-821" width="540" height="376" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-77" value="MaterialName; //材料类别 英文&#xa;MaterialType; //材料名称  中文&#xa;Density; //材料密度&#xa;YieldStrength;//材料屈服强度&#xa;StartTemperature;//材料始锻温度&#xa;FinalTemperature;//材料终锻温度&#xa;FirstFireCoefficient;//第一火耗系数&#xa;OtherFireCoefficient;//第二火耗系数及其他烧损系数&#xa;FrictionCoefficient; //摩擦系数&#xa;BoreRemovals;//内孔系数&#xa;GrindingAmount;//打磨量&#xa;MinAllowDeformation;//最小形变量&#xa;MaxAllowDeformation;//最大形变量&#xa;RollingSpace; //合轧间隙" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-76">
+          <mxGeometry y="26" width="540" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-82" style="endArrow=block;endSize=16;endFill=0;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#1A1A1A;align=center;strokeColor=#A50040;edgeStyle=orthogonalEdgeStyle;sketch=0;fillColor=#d80073;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-81" target="EWvHnnYS7gpeKDERBUo6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-81" value="ColdDeformationInfo(冷变形尺寸尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-2093" y="-217" width="400" height="129" as="geometry">
+            <mxRectangle x="-2370" y="540" width="190" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-84" style="endArrow=block;endSize=16;endFill=0;html=1;fontFamily=Helvetica;fontSize=20;fontColor=#1A1A1A;align=center;strokeColor=#A50040;edgeStyle=orthogonalEdgeStyle;sketch=0;fillColor=#d80073;" edge="1" parent="1" source="EWvHnnYS7gpeKDERBUo6-83" target="EWvHnnYS7gpeKDERBUo6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-83" value="BeforeColdDeformationInfo(冷变形前轧制成型环件尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-1616" y="-217" width="633" height="129" as="geometry">
+            <mxRectangle x="-2370" y="540" width="190" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-85" value="&lt;h1&gt;用来计算并保存得到的值&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Lucida Console;fontSize=19;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-1793" y="54" width="1140" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-153" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;sketch=0;fontSize=20;container=1;" vertex="1" parent="1">
+          <mxGeometry x="-3129" y="219" width="1669" height="853" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-154" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Class&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;div style=&quot;height: 2px; font-size: 20px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=20;fontFamily=Helvetica;html=1;rounded=0;sketch=0;container=1;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-153">
+          <mxGeometry x="33" y="13" width="1636" height="827" as="geometry" />
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-198" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;sketch=0;fontSize=20;container=1;" vertex="1" collapsed="1" parent="EWvHnnYS7gpeKDERBUo6-154">
+          <mxGeometry x="11" y="41" width="50" height="44" as="geometry">
+            <mxRectangle x="11" y="41" width="636" height="559" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-200" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;fontSize=20;fontColor=#1A1A1A;strokeColor=#000000;fillColor=#5D7F99;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-198">
+          <mxGeometry x="74" y="36" width="20" height="487" as="geometry" />
+        </mxCell>
+        <UserObject label="属性&lt;br&gt;" placeholders="1" name="Variable" id="EWvHnnYS7gpeKDERBUo6-201">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fontSize=20;fontColor=#1A1A1A;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-198">
+            <mxGeometry x="4" y="238.99643248469224" width="80" height="82.68804382855302" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-203" value="&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public enum ProductType&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Rectangle,&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Special_Shaped&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public string Hardness; //硬度&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public string Processid;//工艺编号&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public string Produceid;//生产编号&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public string MaterialName; //材料牌号 英文&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public string MaterialType;//材料类别 中文&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public double Cuttingstandards;//下料规格&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public double Cuttingweight;//下料重量&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public bool isRolledPiece;//是否为合轧件&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public bool isColdDeformation;//是否为冷变形&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public bool isHeighten;//是否有加高件&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public bool isShaped = false;//是否为异性环件&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public bool HasQuotedPrice = true;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public bool IsDeduction = false;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public List&amp;lt;string&amp;gt; HeatData1 = new List&amp;lt;string&amp;gt;();//热处理的四个状态&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public string[] HeatData = { &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot; };&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public PartInfo Part = new PartInfo();&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public HeightenInfo Heighten = new HeightenInfo();&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public ForgeInfo Forge = new ForgeInfo();&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public RingBlankInfo RingBlank = new RingBlankInfo();&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public PunchInfo Punch = new PunchInfo();&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public UpsetInfo Upset = new UpsetInfo();&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public CuttingInfo Cutting = new CuttingInfo();&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public ColdDeformationInfo ColdDeformation = new ColdDeformationInfo();&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public BeforeColdDeformationInfo beforeColdDeformation = new BeforeColdDeformationInfo();&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public RolledPiece rolledPiece = new RolledPiece();&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public MaterialProperity materialProperity = new MaterialProperity();&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public ProductType Type = ProductType.Rectangle;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#1A1A1A;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-198">
+          <mxGeometry x="71" y="35.85233644859814" width="548" height="493" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
