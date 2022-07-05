@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T07:14:33.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uvNinBnpEy77q_VF3xh0" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-05T12:08:45.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EPTCaflGMoY2MlEuMpQa" version="20.0.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yEV8EyeTLUlEmpcNr8Te" name="第 2 页">
-    <mxGraphModel dx="5946" dy="2540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10563" dy="4939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,13 +330,13 @@
         <mxCell id="keDOs1kVj-T4tNov1R5m-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-128" source="keDOs1kVj-T4tNov1R5m-135" target="keDOs1kVj-T4tNov1R5m-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="keDOs1kVj-T4tNov1R5m-144" value="计算高厚比&lt;br&gt;通过高厚比和材料类别得到轧制角" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;rounded=0;align=center;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-128">
+        <mxCell id="keDOs1kVj-T4tNov1R5m-144" value="计算高厚比&lt;br&gt;通过高厚比和材料类别得到轧制角" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-128">
           <mxGeometry x="667" y="15.5" width="189" height="39" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-145" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-128" source="keDOs1kVj-T4tNov1R5m-141" target="keDOs1kVj-T4tNov1R5m-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="keDOs1kVj-T4tNov1R5m-146" value="通过相似比得到轧制角" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;rounded=0;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-128">
+        <mxCell id="keDOs1kVj-T4tNov1R5m-146" value="通过相似比得到轧制角" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-128">
           <mxGeometry x="667" y="67" width="189" height="36.9" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-147" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-128" source="keDOs1kVj-T4tNov1R5m-141" target="keDOs1kVj-T4tNov1R5m-146">
@@ -347,14 +347,45 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="keDOs1kVj-T4tNov1R5m-148" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;container=1;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-124">
-          <mxGeometry x="18.999999999999545" y="253.07999999999996" width="1900" height="200" as="geometry" />
+        <mxCell id="keDOs1kVj-T4tNov1R5m-148" value="" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;container=1;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-124">
+          <mxGeometry x="14.999999999999545" y="255.02999999999994" width="1900" height="200" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-149" value="计算得到轧环尺寸" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
           <mxGeometry x="7" y="90.95" width="107" height="30" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-151" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
           <mxGeometry x="114" y="14" width="20" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-153" value="锻件尺寸" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
+          <mxGeometry x="140" y="70" width="81" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-154" value="是否为矩形环件" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
+          <mxGeometry x="252" y="68.5" width="112" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-148" source="keDOs1kVj-T4tNov1R5m-153" target="keDOs1kVj-T4tNov1R5m-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-156" value="" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
+          <mxGeometry x="429" y="14" width="120" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-157" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-148" source="keDOs1kVj-T4tNov1R5m-154" target="keDOs1kVj-T4tNov1R5m-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406" y="88" />
+              <mxPoint x="406" y="29" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-158" value="" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
+          <mxGeometry x="429" y="134" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-159" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-148" source="keDOs1kVj-T4tNov1R5m-154" target="keDOs1kVj-T4tNov1R5m-158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406" y="88" />
+              <mxPoint x="406" y="154" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-16" value="" style="rounded=0;fontSize=20;fontColor=#000000;container=1;verticalAlign=top;html=1;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-154">
           <mxGeometry x="1855.0029342352532" y="136.775391185746" width="1968.7470657647477" height="693.949217628508" as="geometry">
@@ -527,7 +558,7 @@
         <mxCell id="keDOs1kVj-T4tNov1R5m-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-79" source="keDOs1kVj-T4tNov1R5m-103" target="keDOs1kVj-T4tNov1R5m-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="keDOs1kVj-T4tNov1R5m-103" value="计算加高件的尺寸&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;GetHeightenSize()&lt;br&gt;&lt;/span&gt;得到加高件的重量" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;rounded=0;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-79">
+        <mxCell id="keDOs1kVj-T4tNov1R5m-103" value="计算加高件的尺寸&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;GetHeightenSize()&lt;br&gt;&lt;/span&gt;得到加高件的重量" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-79">
           <mxGeometry x="967.2392314566578" y="10.68" width="115.46023235031278" height="51.18" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-79" source="keDOs1kVj-T4tNov1R5m-98" target="keDOs1kVj-T4tNov1R5m-103">
@@ -549,7 +580,7 @@
         <mxCell id="keDOs1kVj-T4tNov1R5m-108" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;是否存在冷变形&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;fontColor=#000000;rounded=0;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-79">
           <mxGeometry x="1297.2630622579684" y="86" width="115.20044682752459" height="49.8" as="geometry" />
         </mxCell>
-        <mxCell id="keDOs1kVj-T4tNov1R5m-111" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;计算轧制成型环件尺寸&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;CalculateColdDeformationSize&lt;/span&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;fontColor=#000000;rounded=0;align=left;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-79">
+        <mxCell id="keDOs1kVj-T4tNov1R5m-111" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;计算轧制成型环件尺寸&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;CalculateColdDeformationSize&lt;/span&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#000000;align=left;strokeColor=default;fillColor=default;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-79">
           <mxGeometry x="1279.3955913017576" y="20.18" width="150.9353887399464" height="41" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-113" value="通过锻件内径和锻件高度得到锻件的公差GetRecForgeSizeTolerance（）" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;rounded=0;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-79">
@@ -609,19 +640,16 @@
           <mxGeometry x="75.46386503512186" y="44.80257011237882" width="23.22141670793391" height="105.41781202912664" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-49" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=20;fontColor=#000000;size=0.5;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-22">
-          <mxGeometry x="282.25985528568924" y="18.79943261380004" width="14.894979170748766" height="69.47616400752189" as="geometry" />
+          <mxGeometry x="289.75985528568924" y="18.79943261380004" width="14.894979170748766" height="69.47616400752189" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-51" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=20;fontColor=#000000;size=0.5;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-22">
-          <mxGeometry x="282.25985528568924" y="109.5271291412698" width="14.894979170748766" height="69.47616400752189" as="geometry" />
+          <mxGeometry x="292.75985528568924" y="109.5271291412698" width="14.894979170748766" height="69.47616400752189" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-56" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(102, 0, 204); background-color: initial;&quot;&gt;有报价的工艺设计：UC_gongyisheji.cs&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 1;&quot;&gt;&lt;font color=&quot;#6600cc&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;记录零件尺寸，材料牌号等信息&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;fontColor=#FF0000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-22">
-          <mxGeometry x="298.4581451338784" y="16.34733270765221" width="158.07296644957128" height="68.65879737213926" as="geometry" />
-        </mxCell>
-        <mxCell id="keDOs1kVj-T4tNov1R5m-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=30;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-22" source="keDOs1kVj-T4tNov1R5m-57" target="keDOs1kVj-T4tNov1R5m-56">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="307.65" y="14.520000000000001" width="183.54" height="68.66" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-57" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(102, 0, 204); background-color: initial;&quot;&gt;无报价的工艺设计：UC_baojia.cs&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 1;&quot;&gt;&lt;font color=&quot;#6600cc&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;记录零件尺寸，材料牌号等信息&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;fontColor=#FF0000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-22">
-          <mxGeometry x="297.1548344564379" y="109.5271291412698" width="157.88677920993692" height="68.65879737213926" as="geometry" />
+          <mxGeometry x="307.65" y="109.53" width="179.85" height="68.66" as="geometry" />
         </mxCell>
         <mxCell id="EWvHnnYS7gpeKDERBUo6-198" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;sketch=0;fontSize=20;container=1;" parent="EWvHnnYS7gpeKDERBUo6-154" vertex="1">
           <mxGeometry x="63.00497975708504" y="112.78" width="876" height="722" as="geometry">
