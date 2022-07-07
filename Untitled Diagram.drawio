@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T02:22:32.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VaW9YucQyqv1-9PPhwHh" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-07T08:36:32.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SwZFun8W-1_15wrY6N3X" version="20.0.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yEV8EyeTLUlEmpcNr8Te" name="第 2 页">
-    <mxGraphModel dx="7454" dy="3163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4727" dy="1887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -282,7 +282,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-124" value="" style="whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;fontColor=#000000;rounded=0;container=1;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-154">
-          <mxGeometry x="3889.0000000000005" y="133.75" width="2000" height="700" as="geometry">
+          <mxGeometry x="3880.0000000000005" y="133.75" width="2000" height="700" as="geometry">
             <mxRectangle x="3889.0000000000005" y="133.75" width="50" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -365,8 +365,8 @@
         <mxCell id="keDOs1kVj-T4tNov1R5m-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-148" source="keDOs1kVj-T4tNov1R5m-153" target="keDOs1kVj-T4tNov1R5m-154">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="keDOs1kVj-T4tNov1R5m-156" value="" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
-          <mxGeometry x="429" y="14" width="120" height="35.5" as="geometry" />
+        <mxCell id="keDOs1kVj-T4tNov1R5m-156" value="得到矩形环件轧环设备CalRecRollingAngle" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
+          <mxGeometry x="429" y="14" width="129" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-157" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-148" source="keDOs1kVj-T4tNov1R5m-154" target="keDOs1kVj-T4tNov1R5m-156">
           <mxGeometry relative="1" as="geometry">
@@ -376,8 +376,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="keDOs1kVj-T4tNov1R5m-158" value="" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
-          <mxGeometry x="429" y="134" width="120" height="39" as="geometry" />
+        <mxCell id="keDOs1kVj-T4tNov1R5m-158" value="异形环件轧环设备&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;CalShapedForgeSizeRollingSize&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
+          <mxGeometry x="429" y="134" width="163" height="39" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-159" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-148" source="keDOs1kVj-T4tNov1R5m-154" target="keDOs1kVj-T4tNov1R5m-158">
           <mxGeometry relative="1" as="geometry">
@@ -386,6 +386,54 @@
               <mxPoint x="406" y="154" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-161" value="通过计算得到的轧环设备可以得到环件&lt;br&gt;尺寸得到环件尺寸后可以通过加高件&lt;span style=&quot;background-color: initial;&quot;&gt;尺&lt;br&gt;寸得&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;到&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;轧环加高件尺寸&lt;/span&gt;" style="html=1;align=left;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;strokeColor=default;fillColor=default;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
+          <mxGeometry x="595" y="65" width="206" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-162" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;说明&lt;/font&gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=20;fontColor=#000000;align=center;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="keDOs1kVj-T4tNov1R5m-148" source="keDOs1kVj-T4tNov1R5m-156" target="keDOs1kVj-T4tNov1R5m-161">
+          <mxGeometry x="-0.1862" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-163" value="工艺推演" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
+          <mxGeometry x="762" y="20" width="81" height="37.75" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-164" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-148" source="keDOs1kVj-T4tNov1R5m-156" target="keDOs1kVj-T4tNov1R5m-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="609" y="39" />
+              <mxPoint x="609" y="39" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-167" value="根据相似度GetInnerDFromDeduction" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
+          <mxGeometry x="904" y="54" width="128" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-168" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-148" source="keDOs1kVj-T4tNov1R5m-163" target="keDOs1kVj-T4tNov1R5m-167">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="801" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-165" value="环件内径=最小芯辊直径+间隙值（20）" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
+          <mxGeometry x="904" y="3" width="128" height="32.38" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-166" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-148" source="keDOs1kVj-T4tNov1R5m-163" target="keDOs1kVj-T4tNov1R5m-165">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="801" y="8" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-169" value="轧环尺寸通过轧环内径和高度得到轧环公差&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;GetRecRollingRingTolerance&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-148">
+          <mxGeometry x="1081" y="14" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-148" source="keDOs1kVj-T4tNov1R5m-165" target="keDOs1kVj-T4tNov1R5m-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-148" source="keDOs1kVj-T4tNov1R5m-167" target="keDOs1kVj-T4tNov1R5m-169">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-16" value="" style="rounded=0;fontSize=20;fontColor=#000000;container=1;verticalAlign=top;html=1;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-154">
           <mxGeometry x="1855.0029342352532" y="136.775391185746" width="1968.7470657647477" height="693.949217628508" as="geometry">
@@ -671,6 +719,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=15;fontColor=#000000;" edge="1" parent="EWvHnnYS7gpeKDERBUo6-154" source="EWvHnnYS7gpeKDERBUo6-198" target="keDOs1kVj-T4tNov1R5m-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-172" value="" style="whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;fontColor=#000000;rounded=0;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-154">
+          <mxGeometry x="5948" y="133.75" width="2000" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="EWvHnnYS7gpeKDERBUo6-154" source="keDOs1kVj-T4tNov1R5m-124" target="keDOs1kVj-T4tNov1R5m-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-174" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;container=1;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-154">
+          <mxGeometry x="5958" y="170.78" width="1900" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-175" value="从数据库中读取冲头尺&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;压机选择:3150T快锻机&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;GetPunchSize&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;align=left;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-174">
+          <mxGeometry x="13" y="58.08" width="129" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-176" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;冲孔内径 = 轧环内径 - 2 * 内孔清除；&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;align=left;fontColor=#000000;rounded=0;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-174">
+          <mxGeometry x="183" y="14" width="202" height="34.93" as="geometry" />
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="keDOs1kVj-T4tNov1R5m-174" source="keDOs1kVj-T4tNov1R5m-175" target="keDOs1kVj-T4tNov1R5m-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
