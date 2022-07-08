@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T01:46:21.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pYfUIc-mkthVUB6dfyg0" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-08T07:55:45.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Q2Uz-wigAUtFsDPa5wFG" version="20.0.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yEV8EyeTLUlEmpcNr8Te" name="第 2 页">
-    <mxGraphModel dx="5061" dy="2056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4018" dy="1528" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
             <mxRectangle x="-2396" y="-287" width="190" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EWvHnnYS7gpeKDERBUo6-28" value="InnerDiameter:内径&#xa;Outer Diameter：外径&#xa;Height：高度&#xa;Weight：重量" style="text;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;" parent="EWvHnnYS7gpeKDERBUo6-27" vertex="1">
+        <mxCell id="EWvHnnYS7gpeKDERBUo6-28" value="InnerDiameter:内径&#xa;Outer Diameter：外径&#xa;Height：高度&#xa;Weight：重量" style="text;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=10;fontColor=#1A1A1A;" parent="EWvHnnYS7gpeKDERBUo6-27" vertex="1">
           <mxGeometry y="26" width="260" height="104" as="geometry" />
         </mxCell>
         <mxCell id="EWvHnnYS7gpeKDERBUo6-46" style="endArrow=block;endFill=0;html=1;fontFamily=Lucida Console;fontSize=20;fontColor=#1A1A1A;align=center;strokeColor=#3700CC;edgeStyle=orthogonalEdgeStyle;entryX=0.002;entryY=0.428;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#6a00ff;" parent="1" source="EWvHnnYS7gpeKDERBUo6-39" target="EWvHnnYS7gpeKDERBUo6-28" edge="1">
@@ -217,9 +217,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EWvHnnYS7gpeKDERBUo6-61" value="PunchInfo(下料尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="-838" y="-833" width="260" height="147" as="geometry">
+          <mxGeometry x="-853" y="-833" width="311" height="153" as="geometry">
             <mxRectangle x="-2370" y="540" width="190" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-192" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public int[] PunchSizeDB;//数据库中冲头尺寸&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public double PunchSize;//冲孔尺寸&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public double coreStockCoe;//芯料系数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public double chongKongXiShu;//冲孔系数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public double daMoNum_Weight; //打磨重量 ? 火耗量&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public double xinLiao_Weight;//芯料重量&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public double diPian_Height;//底片高度&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; public bool needMaKuo;//需要马扩&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="EWvHnnYS7gpeKDERBUo6-61">
+          <mxGeometry y="26" width="311" height="127" as="geometry" />
         </mxCell>
         <mxCell id="EWvHnnYS7gpeKDERBUo6-64" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;形成工艺卡&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#1A1A1A;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;" parent="1" vertex="1">
           <mxGeometry x="-364" y="-919" width="120" height="60" as="geometry" />
@@ -253,7 +256,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EWvHnnYS7gpeKDERBUo6-76" value="MaterialProperity(材料属性)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="-540" y="-821" width="540" height="239" as="geometry">
+          <mxGeometry x="-489" y="-789" width="540" height="239" as="geometry">
             <mxRectangle x="-540" y="-821" width="230" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -272,7 +275,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EWvHnnYS7gpeKDERBUo6-83" value="BeforeColdDeformationInfo(冷变形前轧制成型环件尺寸)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="-1645" y="-217" width="633" height="129" as="geometry">
+          <mxGeometry x="-1632" y="-217" width="633" height="129" as="geometry">
             <mxRectangle x="-2370" y="540" width="190" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -512,9 +515,8 @@
           <mxGeometry x="0.2908" relative="1" as="geometry">
             <mxPoint x="419.68444997652614" y="183.33312664009387" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="366" y="120" />
-              <mxPoint x="366" y="170" />
-              <mxPoint x="414" y="170" />
+              <mxPoint x="368" y="120" />
+              <mxPoint x="368" y="170" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -749,29 +751,40 @@
           <mxGeometry x="25" y="112" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-179" value="是否需要工艺推演" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-174">
-          <mxGeometry x="179" y="109" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="109" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="keDOs1kVj-T4tNov1R5m-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;" edge="1" parent="keDOs1kVj-T4tNov1R5m-174" source="keDOs1kVj-T4tNov1R5m-178" target="keDOs1kVj-T4tNov1R5m-179">
+        <mxCell id="keDOs1kVj-T4tNov1R5m-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="keDOs1kVj-T4tNov1R5m-174" source="keDOs1kVj-T4tNov1R5m-194" target="keDOs1kVj-T4tNov1R5m-179">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-181" value="通过相似度得到冲孔尺寸和芯料系数" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-174">
-          <mxGeometry x="323" y="58.08" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="44" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-182" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="keDOs1kVj-T4tNov1R5m-174" source="keDOs1kVj-T4tNov1R5m-179" target="keDOs1kVj-T4tNov1R5m-181">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="89" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="keDOs1kVj-T4tNov1R5m-174" source="keDOs1kVj-T4tNov1R5m-178" target="keDOs1kVj-T4tNov1R5m-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-183" value="" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-174">
-          <mxGeometry x="323" y="132" width="120" height="60" as="geometry" />
+          <mxGeometry x="601" y="138" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-184" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=10;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="keDOs1kVj-T4tNov1R5m-174" source="keDOs1kVj-T4tNov1R5m-179" target="keDOs1kVj-T4tNov1R5m-183">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="239" y="180" />
+              <mxPoint x="537" y="168" />
+              <mxPoint x="537" y="168" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="keDOs1kVj-T4tNov1R5m-194" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;从数据库内读取所有可选的冲头尺寸和马杠尺寸GetPunchSizeFromDB&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="keDOs1kVj-T4tNov1R5m-174">
+          <mxGeometry x="191" y="109" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="keDOs1kVj-T4tNov1R5m-190" value="RolledPiece(合轧件)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#60a917;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="-567" width="260" height="81" as="geometry">
+          <mxGeometry x="-424" y="-505" width="260" height="81" as="geometry">
             <mxRectangle x="-2370" y="540" width="190" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
